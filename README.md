@@ -1,1 +1,1 @@
-# Administrador de citas básico con React - FGM
+# Control de presupuesto básico con React
